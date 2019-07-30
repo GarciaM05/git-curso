@@ -9,4 +9,4 @@
     	window.location.href="indexInsertar.html";
     </script>';
 	}
-?>
+?> 
